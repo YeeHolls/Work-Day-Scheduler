@@ -17,7 +17,7 @@ Process:
   Utilized help from the Xpert Learning Assistant AI.
 
   Screenshot of Front Page
-![Alt text](<Assets/Screenshot 2023-10-22 at 9.03.44 PM.png>)
+![Alt text](<assets/images/Screenshot 2023-10-22 at 9.03.44 PM.png>)
 
 
 
